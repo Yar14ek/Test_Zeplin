@@ -7,7 +7,7 @@ const footerStyle = {
     backgroundColor: "#f8f8f8"
   },
   footerLogo: {
-    display: "flex",
+    display: "flex",  
     justifyContent: "space-between",
     alignItems: "flex-end"
   },
