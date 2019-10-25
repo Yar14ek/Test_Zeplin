@@ -1,7 +1,7 @@
 import React from "react";
 import SidebarAddLogo from "./SidebarAddLogo/Sidebar";
 import SidebarMenu from "./SidebarMenu/SidebarMenu";
-import Content from "./Contant/Contant";
+import Content from "./Contant/Contant.jsx";
 function Main() {
   const asideBar = {
     width: "33%"
